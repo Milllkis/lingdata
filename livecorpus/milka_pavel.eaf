@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-20T20:30:09+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T09:59:58+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -60,7 +60,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>я правильно понимаю что это / та самая / новая технология вот этот прямой посев / которая исключает пашню //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я правильно понимаю что это / та самая / новая технология вот этот прямой посев / которая исключает пашню? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -72,7 +72,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
                 TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>а сечас этот / эта стадия исключена да //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а сечас этот / эта стадия исключена да? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
